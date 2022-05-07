@@ -14,5 +14,5 @@
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20522090      | Phạm Lê Trưởng         |https://github.com/PhamLeTruong                       |20522090@gm.uit.edu.vn   |
 | 2      | 20522015      | Nguyễn Ngọc Tín        |https://github.com/tinnguyenngoc                      |20522015@gm.uit.edu.vn   |
-| 3      | 20521976      | Lê Hoàng Thoại         |hhttps://github.com/Thoai-HoangLe                     |20521976@gm.uit.edu.vn   |
+| 3      | 20521976      | Lê Hoàng Thoại         |https://github.com/Thoai-HoangLe                      |20521976@gm.uit.edu.vn   |
 
