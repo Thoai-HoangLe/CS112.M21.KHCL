@@ -21,31 +21,13 @@
    Giới thiệu nhóm
 </h2>
 
-- **Số thứ tự nhóm:** 5
-- **Thông tin thành viên** 
-
-<table align="center">
-      <tr>
-       <th>Họ và Tên</th>
-       <th>MSSV</th>
-       <th>Email</th>
-      </tr>
-      <tr>
-       <td>Phạm Lê Trưởng</td>
-       <td>20522090</td>
-       <td>20522090@gm.uit.edu.vn</td>  
-      </tr>
-      <tr>
-       <td>Nguyễn Ngọc Tín</td>
-       <td>20522015</td>
-       <td>20522015@gm.uit.edu.vn</td>  
-      </tr>
-      <tr>
-       <td>Lê Hoàng Thoại</td>
-       <td>20521976</td>
-       <td>20521976@gm.uit.edu.vn</td>  
-      </tr>
-</table>
+### THÀNH VIÊN NHÓM
+<a name="thanhvien"></a>
+| STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
+| ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
+| 1      | 20522090      | Phạm Lê Trưởng         |[PhamLeTruong](https://github.com/PhamLeTruong)       |20521976@gm.uit.edu.vn   |
+| 2      | 20522015      | Nguyễn Ngọc Tín        |[tinnguyenngoc](https://github.com/tinnguyenngoc)     |20522015@gm.uit.edu.vn   |
+| 3      | 20521976      | Lê Hoàng Thoại         |[Thoai-HoangLe](https://github.com/Thoai-HoangLe)     |20521976@gm.uit.edu.vn   |
 
 
 <h2>
