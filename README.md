@@ -1,18 +1,64 @@
 <p align="center">
-  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
-    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
-  </a>
+   <a href="https://www.uit.edu.vn/">
+      <img src="https://i.imgur.com/WmMnSRt.png" border="none">
+   </a>
 </p>
+<h1 align="center">
+    CS112.M21.KHCL - Phân tích và thiết kế thuật toán
+</h1>
 
-<!-- Title -->
-<h1 align="center"><b>CS112 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
-<h2 align="center"><b>ĐỀ TÀI: GEOMETRIC ALGORITHMS - QUY HOẠCH ĐỘNG</b></h2>
+<h2>
+   Giới thiệu môn học   
+</h2>
 
-## THÀNH VIÊN NHÓM
-<a name="thanhvien"></a>
-| STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
-| ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 20522090      | Phạm Lê Trưởng         |https://github.com/PhamLeTruong                       |20522090@gm.uit.edu.vn   |
-| 2      | 20522015      | Nguyễn Ngọc Tín        |https://github.com/tinnguyenngoc                      |20522015@gm.uit.edu.vn   |
-| 3      | 20521976      | Lê Hoàng Thoại         |https://github.com/Thoai-HoangLe                      |20521976@gm.uit.edu.vn   |
+- **Tên môn học:** Phân tích và thiết kế thuật toán
+- **Mã môn học:** CS112
+- **Mã lớp:** CS112.M21.KHCL
+- **Năm học:** HK2 (2021-2022)
+- **Giảng viên:** Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
+
+<h2>
+   Giới thiệu nhóm
+</h2>
+
+- **Số thứ tự nhóm:** 5
+- **Thông tin thành viên** 
+
+<table align="center">
+      <tr>
+       <th>Họ và Tên</th>
+       <th>MSSV</th>
+       <th>Email</th>
+      </tr>
+      <tr>
+       <td>Phạm Lê Trưởng</td>
+       <td>20522090</td>
+       <td>20522090@gm.uit.edu.vn</td>  
+      </tr>
+      <tr>
+       <td>Nguyễn Ngọc Tín</td>
+       <td>20522015</td>
+       <td>20522015@gm.uit.edu.vn</td>  
+      </tr>
+      <tr>
+       <td>Lê Hoàng Thoại</td>
+       <td>20521976</td>
+       <td>20521976@gm.uit.edu.vn</td>  
+      </tr>
+</table>
+
+
+<h2>
+  Chủ đề Seminar 
+</h2>
+
+- **Tên chủ đề:** Phương pháp thiết kế thuật toán: Geometric Algorithms 
+- **Mục tiêu:** Sinh viên vận dụng được phương pháp thiết kế để giải quyết bài toán cụ thể
+- **Nội dung chi tiết:**
+    - Đặc điểm bài toán
+    - Dạng thuật toán phổ quát (template/framework)
+    - Ưu và nhược điểm
+    - Bài toán minh họa
+    - Quiz: Đánh giá mức độ hiểu bài
+    - Contest Wecode
 
