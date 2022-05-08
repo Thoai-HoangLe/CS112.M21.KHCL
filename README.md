@@ -36,11 +36,5 @@
 
 - **Tên chủ đề:** Phương pháp thiết kế thuật toán: Geometric Algorithms 
 - **Mục tiêu:** Sinh viên vận dụng được phương pháp thiết kế để giải quyết bài toán cụ thể
-- **Nội dung chi tiết:**
-    - Đặc điểm bài toán
-    - Dạng thuật toán phổ quát (template/framework)
-    - Ưu và nhược điểm
-    - Bài toán minh họa
-    - Quiz: Đánh giá mức độ hiểu bài
-    - Contest Wecode
+
 
